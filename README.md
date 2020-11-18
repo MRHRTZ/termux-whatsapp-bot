@@ -26,7 +26,7 @@ Install chromium browser
 Clone this project
 
 ```zsh
-> git clone https://github.com/mhankbarbar/termux-whatsapp-bot
+> git clone https://github.com/MRHRTZ/termux-whatsapp-bot
 > cd termux-whatsapp-bot
 
 ```
